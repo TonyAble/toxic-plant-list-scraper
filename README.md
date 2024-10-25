@@ -1,5 +1,5 @@
 # toxic-plant-list-scraper
-[![Run scraper](https://github.com/fourthclasshonours/toxic-plant-list-scraper/actions/workflows/run.yml/badge.svg)](https://github.com/fourthclasshonours/toxic-plant-list-scraper/actions/workflows/run.yml)
+[![Run scraper](https://github.com/TonyAble/toxic-plant-list-scraper/actions/workflows/run.yml/badge.svg)](https://github.com/TonyAble/toxic-plant-list-scraper/actions/workflows/run.yml)
 
 Script to scrape list of toxic plants from [ASPCA](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants)
 
